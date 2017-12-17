@@ -1,0 +1,2 @@
+# git-dersleri
+## projenin amacı
